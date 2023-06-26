@@ -1,0 +1,194 @@
+body {
+    padding: 0px !important;
+}
+
+html {
+    padding: 0px;
+}
+
+.collapse {
+    justify-content: flex-end !important;
+}
+
+.navbar {
+    position: sticky !important;
+    background-color: #d0e1f4;
+    color: #3671B9;
+    padding: 0 !important;
+
+}
+
+.collapse a,
+.navbar a {
+    color: #428bca;
+}
+
+#home {
+    background-color: #20bae5 !important;
+    color: white !important;
+}
+
+.container-fluid,
+.container-fluid h4 {
+    font-family: 'Roboto', sans-serif;
+    margin-left: 10px;
+}
+
+hr {
+    margin: 0 !important;
+    color: #3671B9 !important;
+    border: 0 solid;
+    opacity: 1 !important;
+    --bs-border-width: 3px !important;
+}
+
+#ktu-img {
+    max-width: 100%;
+    height: 39px;
+    width: 30px;
+}
+
+.nav-link:hover {
+    color: #a1a1a1 !important;
+}
+
+#box1 {
+    color: white !important;
+    background-color: #428bca !important;
+    margin-top: 60px;
+}
+
+.box1 h3 {
+    margin: 0px;
+    font-size: xx-large;
+}
+
+.row {
+    margin: 0px !important;
+
+}
+
+#logo {
+    margin-top: 12px;
+    height: 117px !important;
+    width: 117px !important;
+    margin-left: 18px;
+
+}
+
+#logo-home {
+    padding-bottom: 10px;
+    border: 3px solid #2d52a0;
+    border-radius: 50%;
+    margin-top: 12px;
+    height: 117px !important;
+    width: 117px !important;
+    margin-left: 18px;
+}
+
+.section span {
+    margin-top: 20px;
+}
+
+.text1 {
+    margin-left: 58px;
+    margin-top: 23px;
+    margin-bottom: 17px;
+
+}
+
+.card-body {
+    padding-top: 0px !important;
+}
+
+.card-a span,
+.card-b span,
+.card-c span {
+    font-size: 32px;
+}
+
+.card-a span {
+    color: #2d52a0;
+}
+
+.card-b span {
+    color: #5cb85c;
+}
+
+.card-c span {
+    color: #ffcc00;
+    ;
+}
+
+.border {
+    border: 1px solid !important;
+    border-radius: 5px;
+}
+
+.section-left {
+    margin-top: 50px;
+    border: 1px #0dcaf0 solid;
+    border-radius: 10px;
+}
+
+.header {
+    border-radius: 5px;
+    background-color: #6facf5;
+    padding: 20px;
+    color: white;
+    padding-bottom: 20px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.forgot-password {
+    text-align: right;
+    font-size: 14px;
+}
+
+.container,
+.form {
+    padding: 0px !important;
+}
+
+.form-group {
+    padding-top: 35px !important;
+}
+
+#button-login {
+    width: 100%;
+    margin-top: 30px;
+}
+
+input::placeholder {
+    color: gray !important;
+}
+
+.card-a:hover,
+.card-b:hover,
+.card-c:hover {
+    background-color: #eeeded;
+}
+
+footer {
+    padding-top: 7px;
+    padding-bottom: 10px;
+    background-color: #0477a4;
+    color: #ffffff;
+}
+
+footer span {
+    margin-left: 35%;
+}
+
+#loginid {
+    width: 27%
+}
+
+#left-info {
+    margin-left: 25px;
+    width: 67%;
+    margin-bottom: 40px;
+}
