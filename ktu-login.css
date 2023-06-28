@@ -192,3 +192,19 @@ footer span {
     width: 67%;
     margin-bottom: 40px;
 }
+
+@media screen and (max-width:768px) {
+    #loginid {
+
+        width: 100% !important;
+    }
+
+    #left-info {
+        width: 100% !important;
+        margin: 0px;
+    }
+
+    #ftr span {
+        margin-left: 200px;
+    }
+}
